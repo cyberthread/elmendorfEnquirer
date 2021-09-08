@@ -10,8 +10,8 @@ Dr. Sasha Thorpe, an attending physician in a Schenectady, N.Y. hospital, stated
 
 According to forensic entomologist Saul Adkin, the bug closely resembles a bed bug but has “a very distinctive purple stripe down the center of its cephalothorax.” For that reason, Adkin and others have tentatively labelled the bug the “Purpleback Bug.”
 
-[IMAGE: An artist's rendition of the  purpleback bug
-CAPTION: The Purpleback Bug is responsible for the deaths of four patients and illnesses of several others in the Northeast United States.]
+  IMAGE: An artist's rendition of the  purpleback bug
+  CAPTION: The Purpleback Bug is responsible for the deaths of four patients and illnesses of several others in the Northeast United States.
 
 Adkin, who is working alongside a team of medical and toxicology experts in a Syracuse, N.Y. laboratory to better understand the purpleback and Grogan's Disease, also stated that the bug's bite feels like a small prick in the skin.
 
@@ -26,9 +26,9 @@ Grogan claimed that the bug was carried by cormorants migrating back to the Grea
 
 “At this time, I can’t find any other way this parasite suddenly appeared on the scene,” Grogan said in his report.
 
-[IMAGE: The digitally enhanced image of Grogan's virus under an electron microscope
+  IMAGE: The digitally enhanced image of Grogan's virus under an electron microscope
 
-CAPTION: The digitally enhanced image of Grogan's Disease as shown under an electron microscope]
+  CAPTION: The digitally enhanced image of Grogan's Disease as shown under an electron microscope
 
 Ecologist Barbie Graylock, who for the last thirty years has specialized in both ornithology and insular biogeography, disagreed with Grogan’s theory.
 
