@@ -1,0 +1,3 @@
+Design ©2021 PUT YOUR NAMES HERE. 
+
+The following Elmendorf Enquirer content is available for your use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License and was developed under the direction of Rebecca Mushtare and with funding support from Teach Access to help individuals practice and learn accessible web design. Logo and illustrations ©2019 Mariana Diaz. Text ©2018 David Drake. 
