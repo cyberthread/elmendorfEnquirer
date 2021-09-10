@@ -1,1 +1,2 @@
-# elmendorfEnquirer
+# Elmendorf Enquirer
+The content included in this repository is for a Faux newspaper titled the Elmendor Enquirer. The content is fake and was written specifically to allow beginning web design students the opportunity to focus on accessible design rather than the development of content for their first web project.
